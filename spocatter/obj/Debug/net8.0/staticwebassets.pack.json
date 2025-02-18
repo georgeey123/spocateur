@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/georgeey/RiderProjects/spocatter/spocatter/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.spocatter.props",
+      "PackagePath": "build\\spocatter.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.spocatter.props",
+      "PackagePath": "buildMultiTargeting\\spocatter.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.spocatter.props",
+      "PackagePath": "buildTransitive\\spocatter.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.spocatter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

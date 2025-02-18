@@ -1,0 +1,6 @@
+@spocatter_HostAddress = http://localhost:5095
+
+GET {{spocatter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

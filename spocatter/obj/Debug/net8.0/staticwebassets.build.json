@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "AlVIgjIVPD8/1mqFmSkF0r6MeALIxjF+C9/5SonLWB0=",
+  "Source": "spocatter",
+  "BasePath": "_content/spocatter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "spocatter/wwwroot",
+      "Source": "spocatter",
+      "ContentRoot": "/home/georgeey/RiderProjects/spocatter/spocatter/wwwroot/",
+      "BasePath": "_content/spocatter",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/georgeey/RiderProjects/spocatter/spocatter/wwwroot/index.html",
+      "SourceId": "spocatter",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/georgeey/RiderProjects/spocatter/spocatter/wwwroot/",
+      "BasePath": "_content/spocatter",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
