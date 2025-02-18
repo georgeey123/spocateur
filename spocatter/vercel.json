@@ -1,6 +1,0 @@
-{
-  "framework": "aspnetcore",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/api/index" }
-  ]
-}
